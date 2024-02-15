@@ -1,0 +1,197 @@
+#logo1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    position: absolute;
+    color:rgb(13, 202, 114);
+    left: 1%;
+    bottom:80%;
+    font-family: 'Shadows Into Light', cursive;
+
+}
+
+#login{
+    font-size: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    left: 93%;
+bottom:90%;
+color: white;
+}
+
+#registro{
+    font-size: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    left: 82.5%;
+    bottom:90%;
+    color: white;
+}
+#linha1{
+    color: white;
+    bottom: 60%;
+    left: 3%;
+    width: 400px;
+    position: absolute;
+}
+#linha2{
+    color: white;
+    bottom: 53%;
+    left: 3%;
+    width: 400px;
+    position: absolute;
+}
+#linha3{
+    color: white;
+    bottom: 40%;
+    left: 3%;
+    width: 400px;
+    position: absolute;
+}
+#linha4{
+    color: white;
+    bottom: 7%;
+    left: 3%;
+    width: 400px;
+    position: absolute;
+}
+
+#buscar1{
+
+    font-size:10px ;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    color: white;
+    bottom: 54%;
+    left: 3%;
+
+}
+
+#inicio1 {
+    font-size:9px ;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    color: white;
+    bottom: 48%;
+    left: 3%;
+}
+#suas1 {
+    font-size:9px ;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    color: white;
+    bottom: 41%;
+    left: 3%;
+}
+
+#tocadas1 {
+    font-size:9px ;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    color: white;
+    bottom: 35%;
+    left: 3%;
+} 
+
+#recente1{
+    font-size:9px ;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    color: white;
+    bottom: 32%;
+    left: 3%;
+}
+#anos80{
+    font-size:9px ;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    color: white;
+    bottom: 25%;
+    left: 3%;
+} 
+#playlist1{
+    font-size:9px ;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    color: white;
+    bottom: 22%;
+    left: 3%;}
+    #install1{
+        font-size:9px ;
+        font-family: Arial, Helvetica, sans-serif;
+        position: absolute;
+        color: white;
+        bottom: 10%;
+        left: 3%;
+    }
+
+#playlist2 {
+    font-size:9px ;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    color: white;
+    bottom: 10%;
+    left: 3%;
+}
+
+#logo1:hover {
+    color: white;
+}
+
+#buscar1:hover{
+    color: black
+
+}
+
+#inicio1:hover{
+    color: rgb(13, 202, 114);
+}
+#suas1:hover{
+    color: rgb(13, 202, 114);
+}
+
+#tocadas1:hover {
+    color: rgb(13, 202, 114);
+}
+
+#recente1:hover{
+    color: rgb(13, 202, 114);
+}
+
+#anos80:hover{
+    color: rgb(13, 202, 114);
+}
+
+#playlist1:hover{
+    color: rgb(13, 202, 114);
+
+}
+#install1:hover{
+
+    color: rgb(13, 202, 114);
+}
+
+#playlist2:hover{
+    color: rgb(13, 202, 114);
+}
+
+#login:hover{
+    color: rgb(13, 202, 114);
+}
+#registro:hover{
+    color: rgb(13, 202, 114);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
